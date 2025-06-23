@@ -1,3 +1,7 @@
-# Project Notes
+# Delenia Project Notes
 
-This file contains notes and documentation for the project. See the other Markdown files for specific topics.
+This directory contains notes and documentation for CentrifyDC and Delinea agent installation, configuration, and troubleshooting on *NIX systems.
+
+- See `path.md` for directory and command references.
+- See `install.md` for installation instructions.
+- See `tshoot.md` for troubleshooting commands.
