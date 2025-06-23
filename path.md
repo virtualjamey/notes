@@ -1,0 +1,10 @@
+# Directory Paths and Their Purpose
+
+| Directory/Path         | Contains                                                                                                                                                                                                                       |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /etc/centrifydc       | The agent configuration file and the Kerberos configuration file.                                                                                                                        |
+| /usr/share/centrifydc | Kerberos-related files and service library files used by the Centrify Agent to enable group policy and authentication and authorization services.                                         |
+| /usr/sbin/usr/bin     | Command line programs to perform Active Directory tasks, such as joining a domain and changing a user password.                                                                           |
+| /var/centrify         | Directories for temporary and common files that can be used by the agent.                                                                                                                |
+| /var/centrifydc       | The IP address of the DNS server, details about the software you have installed, the Active Directory domain the computer is joined to, the Active Directory site the computer is part of, and other details. |
+| /var/log              | Error messages, warnings, and informational messages, along with other kernel and program messages.                                                                                       |
